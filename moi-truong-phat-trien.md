@@ -4,4 +4,5 @@ Danh mục
 
 * [Homebrew](/moi-truong/home-brew.md)
 * [JDK](/moi-truong/jdk.md)
+* [Ruby](/moi-truong/ruby.md)
 
